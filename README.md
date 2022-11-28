@@ -1,0 +1,1 @@
+Code for the model in "Action-modulated midbrain dopamine activity arises from distributed control policies" (Lindsey and Litwin-Kumar, NeurIPS 2022) https://openreview.net/forum?id=2gZccSOY04p.
